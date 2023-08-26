@@ -1,4 +1,4 @@
-<h1 align="center"> archive.is Browser Extension </h1>
+<h1 align="center"> Wayback Machine Browser Extension ⚡️ </h1>
 
 Reload the current page on wayback machine
 
